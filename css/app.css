@@ -20,6 +20,14 @@ body {
     background-color: #8ab542;
 }
 
-input.form-control:focus{
+input.form-control:focus {
     border-color: #99c84a;
+}
+
+#search-bar {
+    padding: 1em;
+}
+
+#productosCarousel img {
+    margin: 0 auto;
 }
